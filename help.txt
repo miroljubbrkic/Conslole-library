@@ -1,0 +1,110 @@
+clanovi:
+1) admin = izmena/dodavanje knjiga, izmena/dodavanje clanova, zaduzivanje/razduzivanje/rashodovanje
+2)korisnik = pregled zaduzenja, pretraga knjiga, izmena sopstvenih podataka, 
+
+
+
+
+========= CLANOVI ==========
+[
+    {
+        "id": "B-1-2018",
+        "ime": "Miroljub",
+        "prezime": "Brkic",
+        "aktivnost": true,
+        "username": "miroljubbr",
+        "lozinka": "qwerty"
+    },
+    {
+        "id": "K-2-2018",
+        "ime": "Voja",
+        "prezime": "VESELINOVIC",
+        "aktivnost": true,
+        "username": "vojav",
+        "lozinka": "54321"
+    },
+    {
+        "id": "K-3-2019",
+        "ime": "qwerty",
+        "prezime": "qwerty",
+        "aktivnost": true,
+        "username": "qwerty",
+        "lozinka": "asdf"
+    },
+    {
+        "id": "K-4-2019",
+        "ime": "123",
+        "prezime": "123",
+        "aktivnost": true,
+        "username": "123",
+        "lozinka": "123"
+    }
+]
+
+=========== KNJIGE ============
+[
+    {
+        "ISBN": "4-2019",
+        "zaduzeno": "2019-03-01",
+        "razduzeno": "",
+        "id": "K-3-2019"
+    },
+    {
+        "ISBN": "1-2000",
+        "zaduzeno": "2019-03-01",
+        "razduzeno": "2019-03-02",
+        "id": "K-2-2018"
+    },
+    {
+        "ISBN": "4-2019",
+        "zaduzeno": "2019-03-01",
+        "razduzeno": "",
+        "id": "K-2-2018"
+    },
+    {
+        "ISBN": "1-2000",
+        "zaduzeno": "2019-04-24",
+        "razduzeno": "",
+        "id": "K-2-2018"
+    },
+    {
+        "ISBN": "4-2019",
+        "zaduzeno": "2020-02-19",
+        "razduzeno": "2020-02-19",
+        "id": "K-2-2018"
+    }
+]
+
+======== ZADUZENJA =========
+[
+    {
+        "ISBN": "4-2019",
+        "zaduzeno": "2019-03-01",
+        "razduzeno": "",
+        "id": "K-3-2019"
+    },
+    {
+        "ISBN": "1-2000",
+        "zaduzeno": "2019-03-01",
+        "razduzeno": "2019-03-02",
+        "id": "K-2-2018"
+    },
+    {
+        "ISBN": "4-2019",
+        "zaduzeno": "2019-03-01",
+        "razduzeno": "",
+        "id": "K-2-2018"
+    },
+    {
+        "ISBN": "1-2000",
+        "zaduzeno": "2019-04-24",
+        "razduzeno": "",
+        "id": "K-2-2018"
+    },
+    {
+        "ISBN": "4-2019",
+        "zaduzeno": "2020-02-19",
+        "razduzeno": "2020-02-19",
+        "id": "K-2-2018"
+    }
+]

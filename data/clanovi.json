@@ -1,0 +1,34 @@
+[
+    {
+        "id": "B-1-2018",
+        "ime": "Miroljub",
+        "prezime": "Brkic",
+        "aktivnost": true,
+        "username": "miroljubbr",
+        "lozinka": "qwerty"
+    },
+    {
+        "id": "K-2-2018",
+        "ime": "Voja",
+        "prezime": "VESELINOVIC",
+        "aktivnost": true,
+        "username": "vojav",
+        "lozinka": "54321"
+    },
+    {
+        "id": "K-3-2019",
+        "ime": "qwerty",
+        "prezime": "qwerty",
+        "aktivnost": true,
+        "username": "qwerty",
+        "lozinka": "asdf"
+    },
+    {
+        "id": "K-4-2019",
+        "ime": "123",
+        "prezime": "123",
+        "aktivnost": true,
+        "username": "123",
+        "lozinka": "123"
+    }
+]

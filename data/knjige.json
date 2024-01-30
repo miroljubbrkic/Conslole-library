@@ -1,0 +1,50 @@
+[
+    {
+        "ISBN": "1-2000",
+        "naslov": "Na Drini cuprija",
+        "autor": "Ivo Andric",
+        "godina": "2014",
+        "ukupno": "22",
+        "slobodno": "21"
+    },
+    {
+        "ISBN": "2-2014",
+        "naslov": "Zivot i prikljucenija",
+        "autor": "Dositej Obradovic",
+        "godina": "2007",
+        "ukupno": "13",
+        "slobodno": "13"
+    },
+    {
+        "ISBN": "3-2017",
+        "naslov": "Uspeh sto da ne",
+        "autor": "Dzek Kenfild",
+        "godina": "2012",
+        "ukupno": "20",
+        "slobodno": "0"
+    },
+    {
+        "ISBN": "4-2019",
+        "naslov": "Pink panteri",
+        "autor": "Vladimir Lamar",
+        "godina": "2015",
+        "ukupno": "10",
+        "slobodno": "8"
+    },
+    {
+        "ISBN": "5-2016",
+        "naslov": "aaaa",
+        "autor": "bbbb",
+        "godina": "2008",
+        "ukupno": "222",
+        "slobodno": "222"
+    },
+    {
+        "ISBN": "6-2003",
+        "naslov": "oop1",
+        "autor": "Dejan Zivkovic",
+        "godina": "2019",
+        "ukupno": "40",
+        "slobodno": "40"
+    }
+]
